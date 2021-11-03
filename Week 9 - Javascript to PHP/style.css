@@ -1,0 +1,55 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #2a2c36;
+}
+
+.shadown {
+    box-shadow: 7px 7px 10px 5px rgba(0, 0, 0, 0.05);
+}
+
+.rounding, .btn {
+    border-radius: 20px;
+}
+
+.btn-danger {
+    background: #c84332 !important;
+    border-color: #c84332;
+    outline-color: #dd9f7e;
+}
+
+.btn-danger:hover {
+    background-color: #8b2019 !important;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-danger:active:focus {
+    background-color: #c84332 !important;
+    outline-color: #dd9f7e !important;
+}
+
+.btn-success {
+    background-color: #32d59f;
+    border-color: #32d59f;
+}
+
+.btn-success:hover {
+    background-color: #13d695 !important;
+    border-color: #32d59f;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-success:active:focus {
+    background-color: #09bd81 !important;
+    outline-color: #09bd81 !important;
+}
+
+.card {
+    background-color: #e9e9d5;
+}
+
+.has-error {
+    border-color: #dd9f7e;
+    border-width: thick;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 15px;
+}
