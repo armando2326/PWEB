@@ -4,7 +4,7 @@
   Tugas konversi Java ke Javascript --> Folder <a href="https://github.com/armando2326/PWEB/tree/main/Java%20Code%20Conversion">Java Code Conversion</a>
 
 - <b>Week 7</b> <br>
-  Tugas kastemisasi jQuery --> Folder <a href="https://github.com/armando2326/PWEB/tree/main/JQuery%20Customization">jQuery Customization</a>
+  Tugas kastemisasi jQuery --> Folder <a href="https://github.com/armando2326/PWEB/tree/main/JQuery%20Customization">jQuery Customization</a><br>
   Praktikum 2 --> Folder <a href="https://github.com/armando2326/PWEB/tree/main/Praktikum%202">Praktikum 2</a>
 
 - <b>Evaluasi Tengah Semester (ETS)</b> <br>
